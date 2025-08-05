@@ -5,3 +5,4 @@ description = "Personal portfolio showcasing my projects, skills, and experience
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# match the style used in the rest of the module
